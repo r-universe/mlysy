@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LMN"]
+	path = LMN
+	url = https://github.com/mlysy/lmn
+	shallow = true
+	registered = true
+[submodule "mniw"]
+	path = mniw
+	url = https://github.com/mlysy/mniw
+	shallow = true
+	registered = true
+[submodule "optimCheck"]
+	path = optimCheck
+	url = https://github.com/mlysy/optimcheck
+	shallow = true
+	registered = true
+[submodule "rdoxygen"]
+	path = rdoxygen
+	url = https://github.com/mlysy/rdoxygen
+	shallow = true
+	registered = true

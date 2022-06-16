@@ -1,0 +1,18 @@
+[
+  {
+    "package": "LMN",
+    "oncran": true
+  },
+  {
+    "package": "mniw",
+    "oncran": true
+  },
+  {
+    "package": "optimCheck",
+    "oncran": true
+  },
+  {
+    "package": "rdoxygen",
+    "oncran": true
+  }
+]
