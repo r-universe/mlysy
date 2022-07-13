@@ -18,3 +18,8 @@
 	url = https://github.com/mlysy/optimcheck
 	shallow = true
 	registered = true
+[submodule "rdoxygen"]
+	path = rdoxygen
+	url = https://github.com/mlysy/rdoxygen
+	shallow = true
+	registered = true

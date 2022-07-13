@@ -10,5 +10,9 @@
   {
     "package": "optimCheck",
     "oncran": true
+  },
+  {
+    "package": "rdoxygen",
+    "oncran": true
   }
 ]
