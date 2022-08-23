@@ -8,6 +8,11 @@
 	url = https://github.com/mlysy/lmn
 	shallow = true
 	registered = true
+[submodule "MADPop"]
+	path = MADPop
+	url = https://github.com/mlysy/madpop
+	shallow = true
+	registered = true
 [submodule "mniw"]
 	path = mniw
 	url = https://github.com/mlysy/mniw
