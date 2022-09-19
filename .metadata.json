@@ -1,13 +1,5 @@
 [
   {
-    "package": "LMN",
-    "oncran": true
-  },
-  {
-    "package": "MADPop",
-    "oncran": true
-  },
-  {
     "package": "mniw",
     "oncran": true
   },
