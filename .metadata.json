@@ -12,6 +12,14 @@
     "oncran": true
   },
   {
+    "package": "msde",
+    "oncran": true
+  },
+  {
+    "package": "nicheROVER",
+    "oncran": true
+  },
+  {
     "package": "optimCheck",
     "oncran": true
   },

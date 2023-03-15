@@ -18,6 +18,16 @@
 	url = https://github.com/mlysy/mniw
 	shallow = true
 	registered = true
+[submodule "msde"]
+	path = msde
+	url = https://github.com/mlysy/msde
+	shallow = true
+	registered = true
+[submodule "nicheROVER"]
+	path = nicheROVER
+	url = https://github.com/mlysy/nicherover
+	shallow = true
+	registered = true
 [submodule "optimCheck"]
 	path = optimCheck
 	url = https://github.com/mlysy/optimcheck
