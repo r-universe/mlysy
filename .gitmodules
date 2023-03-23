@@ -38,3 +38,8 @@
 	url = https://github.com/mlysy/rdoxygen
 	shallow = true
 	registered = true
+[submodule "SuperGauss"]
+	path = SuperGauss
+	url = https://github.com/cran/SuperGauss
+	shallow = true
+	registered = true
