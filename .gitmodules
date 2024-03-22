@@ -5,6 +5,9 @@
 [submodule "LMN"]
 	path = LMN
 	url = https://github.com/mlysy/lmn
+[submodule "LocalCop"]
+	path = LocalCop
+	url = https://github.com/mlysy/localcop
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/mlysy/madpop
