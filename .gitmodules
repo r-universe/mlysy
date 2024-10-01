@@ -13,7 +13,7 @@
 	url = https://github.com/mlysy/madpop
 [submodule "SuperGauss"]
 	path = SuperGauss
-	url = https://github.com/cran/SuperGauss
+	url = https://github.com/mlysy/supergauss
 [submodule "mniw"]
 	path = mniw
 	url = https://github.com/mlysy/mniw
